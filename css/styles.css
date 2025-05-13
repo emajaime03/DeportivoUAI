@@ -1,5 +1,11 @@
 @import url('header.css');
-@import url('navbar.css');
 @import url('main.css');
-@import url('sidebar.css');
 @import url('footer.css');
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    padding: 10px;
+}
